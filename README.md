@@ -1,3 +1,3 @@
-# zysszy.github.io
+# zys-szy.github.io
 
-This is my homepage, http://zysszy.github.io.
+This is my homepage, http://zys-szy.github.io.
